@@ -14,7 +14,6 @@ const Bar3D = ({ data }) => {
     height: "400",
     dataFormat: "json",
     dataSource: {
-      /* see data tab */
       chart: {
         caption: "Most Forked",
         yAxisName: "Forks",

@@ -13,7 +13,6 @@ const Doughnut2d = ({ data }) => {
     height: "400",
     dataFormat: "json",
     dataSource: {
-      /* see data tab */
       chart: {
         caption: "Stars per language",
         decimals: 0,
