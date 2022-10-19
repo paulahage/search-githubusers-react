@@ -1,6 +1,6 @@
 # Search GitHub Users
 
-This is an exercise from John Smilga's course - React Tutorial and Projects Course at ÛDEMY.<br/>
+This is an exercise/project from John Smilga's course - React Tutorial and Projects Course at ÛDEMY.<br/>
 The project was developed during the course with the main objective of teaching how a complex application is built with React.
 
 
